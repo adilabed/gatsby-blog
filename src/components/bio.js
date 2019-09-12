@@ -58,8 +58,6 @@ const Bio = () => {
         Casablanca.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>He's on Twitter </a>
-        and
-        <a href={`www.linkedin.com/in/adil-abed`}> Linkedin</a>
       </p>
     </div>
   )
