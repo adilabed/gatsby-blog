@@ -1,5 +1,5 @@
 ---
-title: Tips for passing you CKAD!
+title: Tips for passing your CKAD!
 date: "2020-08-26T16:26:03.284Z"
 description: "Resources that helped me pass the kubernetes certification"
 ---
